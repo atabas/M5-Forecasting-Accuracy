@@ -1,3 +1,2 @@
-# M5-Forecasting-Accuracy
-
-Note for people who are cloning my repository with every update: you don't need to; you can just do "git pull" :grin:
+- Forecast the unit sales of Walmart retail goods for the next 28 days
+- Performed exploratory data analysis, data munging and feature engineering to transform raw data; trained random forest and XGBoost models per department
